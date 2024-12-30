@@ -1,1 +1,1 @@
-this is a quiz application using html,css,javascript 
+These is a Quiz application created by me using HTML,CSS,Javascript 
